@@ -26,12 +26,18 @@ The designs were created to the following widths:
 
 ## Typography
 
-### Headings, Call-to-actions, Header Navigation
+### Body Copy
+
+- Font size (paragraph): 16px
+
+### Fonts
+
+#### Headings, Call-to-actions, Header Navigation
 
 - Family: [Raleway](https://fonts.google.com/specimen/Raleway)
 - Weights: 400, 700
 
-### Body
+#### Body
 
 - Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 - Weights: 400
